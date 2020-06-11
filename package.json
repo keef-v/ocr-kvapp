@@ -2,8 +2,10 @@
   "name": "ocr-node-server",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
+    "run": "node index.js",
+    "start": "node index.js.js",
     "test": "jest",
     "test:watch": "jest --watch"
   },
